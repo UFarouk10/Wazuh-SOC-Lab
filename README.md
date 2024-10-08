@@ -14,7 +14,7 @@ Tools Used
 Wazuh: Open-source security monitoring for event analysis and compliance management.
 Shuffle: Orchestration platform for automating security tool workflows.
 Mimikatz: Utilized as part of our security testing toolkit to simulate credential theft attacks, aiding in the refinement of detection and response strategies.
-TheHive: Scalable, open-source security incident response platform.
+Dfir-iris: Scalable, open-source security incident response platform.
 VirusTotal: A service to check files and URLs for viruses and malware.
 Digital Ocean: Cloud hosting services providing the infrastructure for the SOC system.
 Windows VM: For ensuring coverage and monitoring in Windows environments.
